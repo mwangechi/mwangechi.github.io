@@ -5,13 +5,13 @@ Elastic stack is  a collection of open source software tools - ElasticSearch, Lo
 
 
 
-ElasticSearch: stores the logs
+**ElasticSearch**: stores the logs
 
-Logstash: for both shipping, processing and storing logs
+**Logstash**: for both shipping, processing and storing logs
 
-Beats: lightweight, fast data shippers and collectors
+**Beats**: lightweight, fast data shippers and collectors
 
-Kibana: for visualization and management of the stack
+**Kibana**: for visualization and management of the stack
 
 
 
